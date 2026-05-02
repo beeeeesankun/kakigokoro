@@ -1,0 +1,9 @@
+body {
+  display: block;
+}
+
+section {
+  height: 50vh;
+  margin: 5rem auto 0;
+  width: 30vw;
+}
